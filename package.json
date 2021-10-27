@@ -1,6 +1,6 @@
 {
   "name": "me.wakaponk.toolspox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Tools Pox",
   "description": "This is an POC project for custom unity package",
   "unity": "2019.1",
